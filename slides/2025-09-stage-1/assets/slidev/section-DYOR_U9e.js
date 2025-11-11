@@ -1,1 +1,0 @@
-import{f as t,o as s,g as o,j as a}from"../modules/vue-DUG5-O7-.js";import{u as r}from"./context-BaJj65DN.js";const c={class:"slidev-layout section w-full h-full grid"},l={class:"my-auto text-center"},u={__name:"section",setup(n){return r(),(e,i)=>(s(),t("div",c,[o("div",l,[a(e.$slots,"default")])]))}};export{u as _};
