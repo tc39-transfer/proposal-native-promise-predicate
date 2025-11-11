@@ -6,7 +6,7 @@ ECMAScript proposal and spec for `Promise.isPromise`.
 
 [The TC39 Process](https://tc39.es/process-document/)
 
-**Stage**: 0
+**Stage**: 2
 
 **Champions**:
 - Mathieu Hofman ([@mhofman](https://github.com/mhofman)) (Agoric)
