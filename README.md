@@ -27,7 +27,7 @@ A new `Promise.isPromise` predicate that exposes the result of the [`IsPromise`]
 
 ## Precedent
 
-[`Error.isError`](https://github.com/tc39/proposal-is-error) does a similar brand check for native `Error` objects.
+[`Error.isError`](https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-error.iserror) does a similar check for `Error` objects that have magic `stack` behaviour. [`Array.isArray`](https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.isarray) does a similar check for `Array` objects that have magic `length` behaviour.
 
 ## Membrane transparency
 
